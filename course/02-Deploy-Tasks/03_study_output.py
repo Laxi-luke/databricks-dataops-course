@@ -15,5 +15,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC
-# MAGIC Answer here...
+# MAGIC transport.pierreoskarsson_featgh1615motovun_65ff812f_revenue.borough_population
+# MAGIC transport.pierreoskarsson_featgh1615motovun_65ff812f_revenue.revenue_by_borough
+# MAGIC transport.pierreoskarsson_featgh1615motovun_65ff812f_revenue.revenue_by_tripmonth
+# MAGIC transport.pierreoskarsson_featgh1615motovun_65ff812f_revenue.revenue_per_inhabitant

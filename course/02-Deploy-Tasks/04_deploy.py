@@ -47,7 +47,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC The job is the implementation and job run is the execution.
 
 # COMMAND ----------
 
@@ -60,4 +60,4 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC project + deployment + branch
